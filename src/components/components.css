@@ -80,3 +80,12 @@
   color: #555;
   margin-bottom: 30px;
 }
+
+.copyright {
+  text-align: center;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-top: 1px solid #e0e0e0;
+  font-size: 0.9rem;
+  color: #777;
+}

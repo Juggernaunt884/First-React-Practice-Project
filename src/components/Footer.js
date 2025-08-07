@@ -1,3 +1,5 @@
+import './components.css';
+
 function Footer(props) {
     return (
         <div className="copyright">
